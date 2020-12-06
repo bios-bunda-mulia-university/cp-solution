@@ -1,4 +1,4 @@
-// Contributor: Jayaku Briliantio [BIOS]
+// Contributor: Jayaku Briliantio [BIOS-Bunda Mulia]
 
 #include <bits/stdc++.h>
 
