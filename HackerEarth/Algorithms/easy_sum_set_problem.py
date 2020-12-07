@@ -1,3 +1,5 @@
+# Contributor: Jayaku Briliantio [BIOS-Bunda Mulia]
+
 from collections import Counter
 
 n = int(input())
