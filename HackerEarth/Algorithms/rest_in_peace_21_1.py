@@ -1,3 +1,5 @@
+# Contributor: Jayaku Briliantio [BIOS-Bunda Mulia]
+
 n = int(input())
 
 for n in range(n):
