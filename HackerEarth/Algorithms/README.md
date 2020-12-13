@@ -12,3 +12,6 @@ This directory consist of the solutions for Algorithms Track Problems.
 | 6 | [Golden Rectangles](./golden_rectangles.py) | 3.9 | 3092 | Jayaku Briliantio |
 | 7 | [Square Transaction](./square_transaction.cpp) | 0.9 | 1096 | Jayaku Briliantio |
 | 8 | [Counting Frog Paths](./counting_frog_paths.c) | 5.09 | 64 | Jayaku Briliantio |
+| 9 | [Manna's First Name](./manna_first_name.py) | 1 | 64 | Jayaku Briliantio |
+| 10 | [Special Shop](./special_shop.c) | 5.0 | 64 | Jayaku Briliantio |
+| 11 | [Repeated K Times](./repeated_k_times.c) | 0.6 | 64 | Jayaku Briliantio |
