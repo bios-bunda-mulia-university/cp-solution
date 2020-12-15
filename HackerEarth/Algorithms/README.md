@@ -16,3 +16,4 @@ This directory consist of the solutions for Algorithms Track Problems.
 | 10 | [Special Shop](./special_shop.c) | 5.0 | 64 | Jayaku Briliantio |
 | 11 | [Repeated K Times](./repeated_k_times.c) | 0.6 | 64 | Jayaku Briliantio |
 | 12 | [Policemen and Thieves](./policemen_and_thieves.cpp) | 2.7 | 432 | Jayaku Briliantio |
+| 13 | [Bishu and Soldiers](./bishu_and_soldiers.cpp) | 0.1 | 64 | Jayaku Briliantio |
