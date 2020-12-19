@@ -10,3 +10,4 @@
 | 6 | [0005A-Chat Servers Outgoing Traffic](./a_0005_chat_servers_outgoing_traffic.cpp) | C++ | 92 | 0 | Jason Alexander |
 | 7 | [0004B-Before an Exam](./b_0004_before_an_exam.cpp) | C++ | 31 | 0 | Jason Alexander |
 | 8 | [0004C-Registration System](./c_0004_registration_system.cpp) | C++ | 1372 | 900 | Jason Alexander |
+| 9 | [0010A-Power Consumption](./a_0010_power_consumption.cpp) | C ++ | 62 | 0 | Jayaku Briliantio |
