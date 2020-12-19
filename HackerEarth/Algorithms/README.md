@@ -17,3 +17,5 @@ This directory consist of the solutions for Algorithms Track Problems.
 | 11 | [Repeated K Times](./repeated_k_times.c) | C | 0.6 | 64 | Jayaku Briliantio |
 | 12 | [Policemen and Thieves](./policemen_and_thieves.cpp) | C++ | 2.7 | 432 | Jayaku Briliantio |
 | 13 | [Bishu and Soldiers](./bishu_and_soldiers.cpp) | C++ | 0.1 | 64 | Jayaku Briliantio |
+| 14 | [Discover The Monk](./discover_the_monk.py) | Python | 6.6 | 9388 | Jayaku Briliantio |
+| 15 | [Monk's Encounter with Polynomial](./monk_encounter_with_poly.cpp) | C++ | 6.1 | 436 | Jayaku Briliantio |
