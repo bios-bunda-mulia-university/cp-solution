@@ -1,6 +1,13 @@
 # Competitive Programming Solutions
 Collaborative Solution for Competitive Programming Questions.
 
+If you have any questions, you can contact the repository's maintainers via email as follows:
+- Jayaku Briliantio (**jayakubriliantio.dev@gmail.com**)
+- Martien Junaedi (**martienjunaedi123@gmail.com**)
+- Ferdy Nicolas (**ferdy.nicolas@gmail.com**)
+- Daniel Ronaldo Pangestu (**ronaldo.pangestu1@gmail.com**)
+- Jason Alexander (**ja669543@gmail.com**)
+
 ```
 Copyright 2020 BIOS(Bunda Mulia University Computer Science Student Organization)
 
