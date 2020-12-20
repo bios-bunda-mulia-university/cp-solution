@@ -10,3 +10,4 @@
 | 6 | [0005A-Chat Servers Outgoing Traffic](./a_0005_chat_servers_outgoing_traffic.cpp) | 92 | 0 | Jason Alexander |
 | 7 | [0004B-Before an Exam](./b_0004_before_an_exam.cpp) | 31 | 0 | Jason Alexander |
 | 8 | [0004C-Registration System](./c_0004_registration_system.cpp) | 1372 | 900 | Jason Alexander |
+| 9 | [0001B-Spreadsheets](./b_0001_spreadsheets.cpp) | 996 | 0 | Jason Alexander |
