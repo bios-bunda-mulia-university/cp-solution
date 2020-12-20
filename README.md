@@ -2,7 +2,8 @@
 Collaborative Solution for Competitive Programming Questions.
 
 This repository consist of the solutions of the competitive programming problems from various provider such as **Codeforces**, **HackerEarth**, **HackerRank**, etc. The is some rule in contributing to this repository as follows:
-- When creating a pull request (PR), refer to the [PR Template](./TEMPLATES/PR.template.md)
+- Please fork this repository before contributing.
+- When creating a pull request (PR), refer to the [PR Template](./TEMPLATES/PR.template.md).
 
 ---
 If you have any questions, you can contact the repository's maintainers via email as follows:
