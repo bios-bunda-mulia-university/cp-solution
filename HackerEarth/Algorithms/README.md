@@ -19,3 +19,4 @@ This directory consist of the solutions for Algorithms Track Problems.
 | 13 | [Bishu and Soldiers](./bishu_and_soldiers.cpp) | C++ | 0.1 | 64 | Jayaku Briliantio |
 | 14 | [Discover The Monk](./discover_the_monk.py) | Python | 6.6 | 9388 | Jayaku Briliantio |
 | 15 | [Monk's Encounter with Polynomial](./monk_encounter_with_poly.cpp) | C++ | 6.1 | 436 | Jayaku Briliantio |
+| 16 | [The Old Monk](./the_old_monk.cpp) | C++ | 2.2 | 1852 | Jayaku Briliantio |
