@@ -12,3 +12,4 @@
 | 8 | [0004C-Registration System](./c_0004_registration_system.cpp) | C++ | 1372 | 900 | Jason Alexander |
 | 9 | [0010A-Power Consumption](./a_0010_power_consumption.cpp) | C++ | 62 | 0 | Jayaku Briliantio |
 | 10 | [0001B-Spreadsheets](./b_0001_spreadsheets.cpp) | C++ | 996 | 0 | Jason Alexander |
+| 11 | [0005B-Center Alignment](./b_0005_center_alignment.cpp) | C++ | 186 | 700 | Jason Alexander |
