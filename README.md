@@ -12,6 +12,7 @@ If you have any questions, you can contact the repository's maintainers via emai
 - Ferdy Nicolas (**ferdy.nicolas@gmail.com**)
 - Daniel Ronaldo Pangestu (**ronaldo.pangestu1@gmail.com**)
 - Jason Alexander (**ja669543@gmail.com**)
+- Yudha Nawawi (**yudhanawawi12@gmail.com**)
 
 ```
 Copyright 2020 BIOS(Bunda Mulia University Computer Science Student Organization)
