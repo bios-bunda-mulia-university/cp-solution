@@ -20,3 +20,6 @@ This directory consist of the solutions for Algorithms Track Problems.
 | 14 | [Discover The Monk](./discover_the_monk.py) | Python | 6.6 | 9388 | Jayaku Briliantio |
 | 15 | [Monk's Encounter with Polynomial](./monk_encounter_with_poly.cpp) | C++ | 6.1 | 436 | Jayaku Briliantio |
 | 16 | [The Old Monk](./the_old_monk.cpp) | C++ | 2.2 | 1852 | Jayaku Briliantio |
+| 17 | [Foo and Exams](./foo_and_exams.py) | Python | 0.5 | 64 | Jayaku Briliantio |
+| 18 | [Sherlock and Numbers](./sherlock_and_numbers.py) | Python | 2.9 | 20280 | Jayaku Briliantio |
+| 19 | [Highest Average Nissan](./highest_avergae_nissan.cpp) | C++ | 37.2 | 8636 | Jayaku Briliantio |
