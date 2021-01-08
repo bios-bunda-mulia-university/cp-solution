@@ -23,3 +23,4 @@ This directory consist of the solutions for Algorithms Track Problems.
 | 17 | [Foo and Exams](./foo_and_exams.py) | Python | 0.5 | 64 | Jayaku Briliantio |
 | 18 | [Sherlock and Numbers](./sherlock_and_numbers.py) | Python | 2.9 | 20280 | Jayaku Briliantio |
 | 19 | [Highest Average Nissan](./highest_avergae_nissan.cpp) | C++ | 37.2 | 8636 | Jayaku Briliantio |
+| 20 | [The Furious Five](./the_furious_five.cpp) | C++ | 2.4 | 436 | Jayaku Briliantio |
