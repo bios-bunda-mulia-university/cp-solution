@@ -14,4 +14,5 @@
 | 10 | [0001B-Spreadsheets](./b_0001_spreadsheets.cpp) | C++ | 996 | 0 | Jason Alexander |
 | 11 | [0005B-Center Alignment](./b_0005_center_alignment.cpp) | C++ | 186 | 700 | Jason Alexander |
 | 12 | [0003C-Tic Tac Toe](./c_0003_tic_tac_toe.cpp) | C++ | 62 | 0 | Jayaku Briliantio |
-| 13 | [1145A-Thanos Sort](./a_1145_thanos_sort.cpp) | C++ | 31 | 0 | Jayaku Briliantio |
+| 13 | [1145A-Thanos Sort](./a_1145_thanos_sort.cpp) | C++ | 15 | 0 | Jayaku Briliantio |
+| 14 | [1221A-2048 Game](./a_1221_2048_game.cpp) | C++ | 15 | 8 | Jayaku Briliantio |
