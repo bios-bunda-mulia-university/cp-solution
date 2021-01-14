@@ -25,3 +25,4 @@ This directory consist of the solutions for Algorithms Track Problems.
 | 19 | [Highest Average Nissan](./highest_avergae_nissan.cpp) | C++ | 37.2 | 8636 | Jayaku Briliantio |
 | 20 | [The Furious Five](./the_furious_five.cpp) | C++ | 2.4 | 436 | Jayaku Briliantio |
 | 21 | [Bubble Sort](./bubble_sort.py) | Python | 29.05 | 3732 | Jayaku Briliantio |
+| 22 | [Easy Going Very Easy](./easy_going_very_easy.py) | Python | 0.5 | 64 | Jayaku Briliantio |

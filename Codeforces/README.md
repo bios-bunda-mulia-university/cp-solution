@@ -18,3 +18,4 @@
 | 14 | [1221A-2048 Game](./a_1221_2048_game.cpp) | C++ | 15 | 8 | Jayaku Briliantio |
 | 15 | [1238A-Prime Substraction](./a_1238_prime_substraction.cpp) | C++ | 30 | 0 | Jayaku Briliantio |
 | 16 | [1244A-Rooms and Staircases](./b_1244_rooms_and_staircases.cpp) | C++ | 31 | 0 | Jayaku Briliantio |
+| 17 | [0014A-Letter](./a_0014_letter.cpp) | C++ | 62 | 0 | Jayaku Briliantio |
