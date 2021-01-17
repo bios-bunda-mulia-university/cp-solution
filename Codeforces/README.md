@@ -19,3 +19,4 @@
 | 15 | [1238A-Prime Substraction](./a_1238_prime_substraction.cpp) | C++ | 30 | 0 | Jayaku Briliantio |
 | 16 | [1244A-Rooms and Staircases](./b_1244_rooms_and_staircases.cpp) | C++ | 31 | 0 | Jayaku Briliantio |
 | 17 | [0014A-Letter](./a_0014_letter.cpp) | C++ | 62 | 0 | Jayaku Briliantio |
+| 18 | [0016A-Flag](./a_0016_flag.cpp) | C++ | 60 | 0 | Jayaku Briliantio |
