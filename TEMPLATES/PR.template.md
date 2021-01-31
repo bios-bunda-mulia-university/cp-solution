@@ -20,9 +20,8 @@ Language Used:
 ```
 If the solution given when creating the pull request is more than one, please repeat the template.
 
+Example: 
 ```
-Example:
-
 Add Problem Solution
 
 Problem Name (Title): Breakup App
@@ -51,9 +50,8 @@ Language Used:
 Description (what changes have been conducted):
 ```
 
-```
 Example:
-
+```
 Fix Solution
 
 Problem Name (Title): 1216B-Shooting
