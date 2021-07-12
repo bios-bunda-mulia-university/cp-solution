@@ -28,6 +28,8 @@
 // 0 <= encoded[i] <= 105
 // 0 <= first <= 105
 
+// NOTE: Just give the solution, not the whole code
+
 #include <iostream>
 #include <vector>
 using namespace std;
