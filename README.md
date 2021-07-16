@@ -1,7 +1,7 @@
 # Competitive Programming Solutions
-Collaborative Solution for Competitive Programming Questions.
+Collaborative Solution for Competitive Programming Questions. Contributed by Bunda Mulia Computer Science Students.
 
-This repository consist of the solutions of the competitive programming problems from various provider such as **Codeforces**, **HackerEarth**, **HackerRank**, etc. The is some rule in contributing to this repository as follows:
+This repository consist of the solutions of the competitive programming problems from various provider such as **Codeforces**, **HackerEarth**, **HackerRank**, **Leet Code**, etc. The is some rule in contributing to this repository as follows:
 - Please fork this repository before contributing.
 - When creating a pull request (PR), refer to the [PR Template](./TEMPLATES/PR.template.md).
 
