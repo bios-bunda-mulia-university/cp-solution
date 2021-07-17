@@ -7,3 +7,5 @@ This directory consist of the solutions for Data Structures Track Problems.
 | 1 | [Decoded XORed Array](./Bit%20Manipulation/Easy/Decoded_XORed_Array.cpp) | C++ | 36	| 24.7 |
 | 2 | [Number of Steps to Reduce a Number to Zero](./Bit%20Manipulation/Easy/NumberOfStepsToReduceANumberToZero.cpp) | C++ | 4 | 5.9 |
 | 3 | [Number of Good Pairs](./Math/Easy/NumberOfGoodPairs.py) | Python3 | 28 | 14.2 |
+| 4 | [Concatenation of Array](./Array/Easy/ConcatenationArray.cpp)| C++ | 8 | 12.5 |
+| 5 | [Two Sum](./Array/Easy/TwoSum.cpp) | 16 | 11.9 |
