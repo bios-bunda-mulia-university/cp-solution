@@ -7,3 +7,5 @@
 | 3 | [Number of Good Pairs](./NumberOfGoodPairs.py) | Python | 28 | 14.2 | ```Math``` |
 | 4 | [Concatenation of Array](./ConcatenationArray.cpp)| C++ | 8 | 12.5 | ```Array``` |
 | 5 | [Two Sum](./TwoSum.cpp) | C++ | 16 | 11.9 | ```Array``` |
+| 6 | [Same Tree](./SameTree.py) | Python | 32 | 14.2 | ```Binary Tree``` |
+| 7 | [Symetric Tree](./SymetricTree.py) | Python | 32 | 14.3 | ```Binary Tree``` |
