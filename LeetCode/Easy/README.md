@@ -9,3 +9,4 @@
 | 5 | [Two Sum](./TwoSum.cpp) | C++ | 16 | 11.9 | ```Array``` |
 | 6 | [Same Tree](./SameTree.py) | Python | 32 | 14.2 | ```Binary Tree``` |
 | 7 | [Symetric Tree](./SymetricTree.py) | Python | 32 | 14.3 | ```Binary Tree``` |
+| 8 | [Valid Parantheses](./ValidParantheses.py) | Python | 28 | 14.4 | ```Stack``` |
