@@ -11,3 +11,4 @@
 | 7 | [Symetric Tree](./SymetricTree.py) | Python | 32 | 14.3 | ```Binary Tree``` |
 | 8 | [Valid Parantheses](./ValidParantheses.py) | Python | 28 | 14.4 | ```Stack``` |
 | 9 | [Maximum Depth of Binary Tree](./MaximumDepthOfBinaryTree.c) | C | 8 | 7.8 | ```Tree``` |
+| 10 | [Pascal's Triangle](./PascalTriangle.cpp) | C++ | 0 | 6.5 | ```Array```  ```Dynamic Programming``` |
