@@ -13,4 +13,5 @@
 | 9 | [Maximum Depth of Binary Tree](./MaximumDepthOfBinaryTree.c) | C | 8 | 7.8 | ```Tree``` |
 | 10 | [Pascal's Triangle](./PascalTriangle.cpp) | C++ | 0 | 6.5 | ```Array```  ```Dynamic Programming``` |
 | 11 | [Pascal's Triangle II](./PascalTriangle2.cpp) | C++ | 0 | 6.5 | ```Array```  ```Dynamic Programming``` |
-| 12 | [Minimum Depth of Binary Tree](./MinimumDepthOfBinaryTree.c) | 136 | 75.9 | ```Tree``` |
+| 12 | [Minimum Depth of Binary Tree](./MinimumDepthOfBinaryTree.c) | C | 136 | 75.9 | ```Tree``` |
+| 13 | [Best Time to Buy and Sell Stock](./BestTimeToBuyAndSellStock.c) | C | 104 | 12.9 | ```Array``` |
