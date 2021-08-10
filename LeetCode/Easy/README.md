@@ -10,3 +10,4 @@
 | 6 | [Same Tree](./SameTree.py) | Python | 32 | 14.2 | ```Binary Tree``` |
 | 7 | [Symetric Tree](./SymetricTree.py) | Python | 32 | 14.3 | ```Binary Tree``` |
 | 8 | [Valid Parantheses](./ValidParantheses.py) | Python | 28 | 14.4 | ```Stack``` |
+| 9 | [Maximum Depth of Binary Tree](./MaximumDepthOfBinaryTree.c) | C | 8 | 7.8 | ```Tree``` |
