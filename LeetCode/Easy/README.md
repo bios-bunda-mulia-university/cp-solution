@@ -12,3 +12,4 @@
 | 8 | [Valid Parantheses](./ValidParantheses.py) | Python | 28 | 14.4 | ```Stack``` |
 | 9 | [Maximum Depth of Binary Tree](./MaximumDepthOfBinaryTree.c) | C | 8 | 7.8 | ```Tree``` |
 | 10 | [Pascal's Triangle](./PascalTriangle.cpp) | C++ | 0 | 6.5 | ```Array```  ```Dynamic Programming``` |
+| 11 | [Pascal's Triangle II](./PascalTriangle2.cpp) | C++ | 0 | 6.5 | ```Array```  ```Dynamic Programming``` |
