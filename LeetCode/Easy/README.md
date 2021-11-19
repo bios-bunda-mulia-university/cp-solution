@@ -18,3 +18,4 @@
 | 14 | [Sum of Root to Leaf Binary Numbers](./SumOfRootToLeafBinaryNumbers.c) | C | 0 | 7.1 | ```Tree``` ```DFS``` |
 | 15 | [Flipping an Image](./FlippingAnImage.py) | Python | 88 | 14.3 | ```Matrix``` |
 | 16 | [Binary Search](./BinarySearch.py) | Python | 232 | 15.5 | ```Binary Tree``` ```Tree``` |
+| 17 | [Palindrome Number](./PalindromeNumber.cpp) | C++ | 4 | 5.9 | ```Algorithms``` |
