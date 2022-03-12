@@ -19,3 +19,4 @@
 | 15 | [Flipping an Image](./FlippingAnImage.py) | Python | 88 | 14.3 | ```Matrix``` |
 | 16 | [Binary Search](./BinarySearch.py) | Python | 232 | 15.5 | ```Binary Tree``` ```Tree``` |
 | 17 | [Palindrome Number](./PalindromeNumber.cpp) | C++ | 4 | 5.9 | ```Algorithms``` |
+| 18 | [Length of Last Word](./length_of_last_word.py) | Python3 | 28 | 14 | ```String``` |
