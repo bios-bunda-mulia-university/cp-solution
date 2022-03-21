@@ -21,4 +21,4 @@
 | 17 | [Palindrome Number](./PalindromeNumber.cpp) | C++ | 4 | 5.9 | ```Algorithms``` |
 | 18 | [Length of Last Word](./length_of_last_word.py) | Python3 | 28 | 14 | ```String``` |
 | 19 | [Plus One](./plus_one.py) | Python3 | 34 | 13.9 | ```Math``` |
-| 20 | [Sqrt(x)](./sqrt(x).py) | Python3 | 53 | 13.8 | ```Math``` |
+| 20 | [Sqrt(x)](./sqrt(x).py) | Python3 | 88 | 13.8 | ```Math``` |
