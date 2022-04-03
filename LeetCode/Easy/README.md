@@ -22,3 +22,4 @@
 | 18 | [Length of Last Word](./length_of_last_word.py) | Python3 | 28 | 14 | ```String``` |
 | 19 | [Plus One](./plus_one.py) | Python3 | 34 | 13.9 | ```Math``` |
 | 20 | [Sqrt(x)](./sqrt(x).py) | Python3 | 88 | 13.8 | ```Math``` |
+| 21 | [Merge Two Sorted List](./MergeTwoSortedList.py) | Python3 | 51 | 13.9 | ```Linked List``` |
