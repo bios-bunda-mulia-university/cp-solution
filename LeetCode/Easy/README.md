@@ -23,3 +23,4 @@
 | 19 | [Plus One](./plus_one.py) | Python3 | 34 | 13.9 | ```Math``` |
 | 20 | [Sqrt(x)](./sqrt(x).py) | Python3 | 88 | 13.8 | ```Math``` |
 | 21 | [Merge Two Sorted List](./MergeTwoSortedList.py) | Python3 | 51 | 13.9 | ```Linked List``` |
+| 22 | [Majority Element](./majority_element.py) | Python3 | 178 | 15.5 | ```Hash Map``` |
