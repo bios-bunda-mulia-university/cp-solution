@@ -25,3 +25,4 @@
 | 21 | [Merge Two Sorted List](./MergeTwoSortedList.py) | Python3 | 51 | 13.9 | ```Linked List``` |
 | 22 | [Majority Element](./majority_element.py) | Python3 | 178 | 15.5 | ```Hash Map``` |
 | 23 | [Count Odds Number in an Interval Range](./count_odd_numbers.py) | Python3 | 36 | 13.9 | ```Math``` |
+| 24 | [Average Salary Excluding the Minimum and Maximum Salary](./average_salary.py) | Python3 | 49 | 13.9 | ```Sorting``` |
