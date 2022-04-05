@@ -24,3 +24,4 @@
 | 20 | [Sqrt(x)](./sqrt(x).py) | Python3 | 88 | 13.8 | ```Math``` |
 | 21 | [Merge Two Sorted List](./MergeTwoSortedList.py) | Python3 | 51 | 13.9 | ```Linked List``` |
 | 22 | [Majority Element](./majority_element.py) | Python3 | 178 | 15.5 | ```Hash Map``` |
+| 23 | [Count Odds Number in an Interval Range](./count_odd_number.py) | Python3 | 36 | 13.9 | ```Math``` |
